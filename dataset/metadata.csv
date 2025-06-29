@@ -1,0 +1,46 @@
+character,category,images_downloaded,folder_name
+Mickey Mouse,disney,88,mickey_mouse
+Minnie Mouse,disney,60,minnie_mouse
+Donald Duck,disney,60,donald_duck
+Goofy,disney,60,goofy
+Pluto Disney,disney,60,pluto_disney
+Simba Lion King,disney,46,simba_lion_king
+Nemo,disney,60,nemo
+Buzz Lightyear,disney,60,buzz_lightyear
+Woody Toy Story,disney,60,woody_toy_story
+Elsa Frozen,disney,88,elsa_frozen
+Olaf Frozen,disney,60,olaf_frozen
+Moana,disney,60,moana
+Mulan,disney,60,mulan
+Ariel Little Mermaid,disney,60,ariel_little_mermaid
+Belle Beauty Beast,disney,60,belle_beauty_beast
+Naruto Uzumaki,anime,88,naruto_uzumaki
+Goku Dragon Ball,anime,88,goku_dragon_ball
+Monkey D Luffy,anime,60,monkey_d_luffy
+Pikachu,anime,88,pikachu
+Ash Ketchum,anime,60,ash_ketchum
+Sailor Moon,anime,88,sailor_moon
+Vegeta,anime,60,vegeta
+Ichigo Bleach,anime,46,ichigo_bleach
+Edward Elric,anime,60,edward_elric
+Natsu Dragneel,anime,60,natsu_dragneel
+Light Yagami,anime,60,light_yagami
+Saitama One Punch,anime,47,saitama_one_punch
+Tanjiro Demon Slayer,anime,60,tanjiro_demon_slayer
+Eren Yeager,anime,60,eren_yeager
+Hinata Hyuga,anime,60,hinata_hyuga
+Bugs Bunny,cartoon,88,bugs_bunny
+Tom Cat,cartoon,88,tom_cat
+Jerry Mouse,cartoon,60,jerry_mouse
+SpongeBob SquarePants,cartoon,68,spongebob_squarepants
+Patrick Star,cartoon,60,patrick_star
+Scooby Doo,cartoon,59,scooby_doo
+Shaggy Rogers,cartoon,60,shaggy_rogers
+Fred Flintstone,cartoon,60,fred_flintstone
+Homer Simpson,cartoon,88,homer_simpson
+Bart Simpson,cartoon,60,bart_simpson
+Popeye,cartoon,60,popeye
+Tweety Bird,cartoon,60,tweety_bird
+Sylvester Cat,cartoon,60,sylvester_cat
+Daffy Duck,cartoon,60,daffy_duck
+Porky Pig,cartoon,60,porky_pig

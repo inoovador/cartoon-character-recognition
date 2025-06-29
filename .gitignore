@@ -1,0 +1,63 @@
+# Datasets (muy pesados para GitHub)
+dataset/raw_images/
+dataset/processed_images/
+dataset/train/
+dataset/validation/
+dataset/test/
+
+# Modelos entrenados y checkpoints
+models/checkpoints/
+models/saved_models/
+*.h5
+*.hdf5
+*.pkl
+*.pt
+*.pth
+*.ckpt
+*.pb
+
+# Resultados y plots generados
+results/plots/
+results/reports/
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.pdf
+
+# Logs y archivos temporales
+logs/
+*.log
+.tensorboard/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+.env
+*.egg-info/
+build/
+dist/
+
+# Jupyter Notebooks
+notebooks/.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Mantener estructura de carpetas vacías
+!dataset/.gitkeep
+!models/checkpoints/.gitkeep
+!models/saved_models/.gitkeep
+!results/plots/.gitkeep
+!results/reports/.gitkeep

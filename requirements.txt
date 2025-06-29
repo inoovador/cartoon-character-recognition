@@ -1,0 +1,38 @@
+tensorflow>=2.10.0
+opencv-python
+pillow
+requests
+beautifulsoup4
+selenium
+webdriver-manager
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+gradio
+icrawler
+google-images-download
+tqdm
+# Procesamiento de imágenes y datos
+opencv-python==4.10.0.84
+pillow==11.2.1
+numpy==2.3.1
+pandas==2.3.0
+
+# Machine Learning y Deep Learning
+tensorflow==2.17.0
+scikit-learn==1.5.0
+
+# Visualización
+matplotlib==3.9.0
+seaborn==0.13.2
+
+# Descarga de imágenes
+icrawler==0.6.10
+beautifulsoup4==4.13.4
+requests==2.32.4
+
+# Utilidades
+tqdm==4.67.1
+PyYAML==6.0.2
