@@ -6,6 +6,7 @@ Script para limpiar y preprocesar el dataset de personajes
 import os
 import numpy as np
 import pandas as pd
+import cv2  # ¡ESTA LÍNEA FALTA!
 from PIL import Image, ImageFile
 import shutil
 from tqdm import tqdm
