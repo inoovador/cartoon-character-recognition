@@ -1,6 +1,6 @@
 character,processed_images,status
-goku_dragon_ball,0,insufficient
-mickey_mouse,0,insufficient
-naruto_uzumaki,0,insufficient
-pikachu,0,insufficient
-spongebob_squarepants,0,insufficient
+goku_dragon_ball,10,success
+mickey_mouse,10,success
+naruto_uzumaki,10,success
+pikachu,10,success
+spongebob_squarepants,10,success

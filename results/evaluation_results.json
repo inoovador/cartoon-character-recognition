@@ -1,0 +1,12 @@
+{
+  "test_accuracy": 0.20000000298023224,
+  "test_loss": 1.6097465753555298,
+  "class_names": [
+    "goku_dragon_ball",
+    "mickey_mouse",
+    "naruto_uzumaki",
+    "pikachu",
+    "spongebob_squarepants"
+  ],
+  "model_type": "simple_cnn"
+}
