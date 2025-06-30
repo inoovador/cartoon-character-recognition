@@ -1,11 +1,11 @@
-# Datasets (muy pesados para GitHub)
-dataset/raw_images/
+# Dataset (comentar las líneas para permitir raw_images)
+# dataset/raw_images/              ← COMENTADA
 dataset/processed_images/
 dataset/train/
 dataset/validation/
 dataset/test/
 
-# Modelos entrenados y checkpoints
+# Modelos entrenados y checkpoints  
 models/checkpoints/
 models/saved_models/
 *.h5
