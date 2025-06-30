@@ -60,4 +60,6 @@ Thumbs.db
 !models/checkpoints/.gitkeep
 !models/saved_models/.gitkeep
 !results/plots/.gitkeep
-!results/reports/.gitkeep
+!results/reports/.gitkeep__pycache__/
+*.pyc
+.vscode/settings.json
