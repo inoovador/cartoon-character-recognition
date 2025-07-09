@@ -1,0 +1,18 @@
+{
+  "model_path": "models/saved_models/simple_cartoon_classifier_20250630_110631.h5",
+  "class_names": [
+    "goku_dragon_ball",
+    "mickey_mouse",
+    "naruto_uzumaki",
+    "pikachu",
+    "spongebob_squarepants"
+  ],
+  "img_size": [
+    128,
+    128
+  ],
+  "test_accuracy": 0.20000000298023224,
+  "test_loss": 1.6097465753555298,
+  "timestamp": "20250630_110631",
+  "model_type": "simple_cnn"
+}
